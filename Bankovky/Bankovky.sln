@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankovky", "Bankovky\Bankovky.csproj", "{2F1DC50E-766C-42F7-A164-B936D8049C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1DC50E-766C-42F7-A164-B936D8049C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1DC50E-766C-42F7-A164-B936D8049C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1DC50E-766C-42F7-A164-B936D8049C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1DC50E-766C-42F7-A164-B936D8049C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
