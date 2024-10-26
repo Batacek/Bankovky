@@ -1,4 +1,8 @@
 # Bankovky (CS)
+
+[![License](https://img.shields.io/github/license/Batacek/Bankovky)](LICENSE)
+[![Lang](https://img.shields.io/badge/Language-C%23-pink)](Lang)
+
 Jednoduchý C# skript, který rozdělí částku na bankovky. Skript používá pouze "papírové" bankovky (5000, 2000, 1000, 500, 200, 100), tudíž nepoužívá mince (50, 20, 10, 5, 2, 1).
 <br>
 <a href="Bankovky/Bankovky/Program.cs">Zobrazit kód</a>
